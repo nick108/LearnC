@@ -8,8 +8,37 @@ git config --global user.name "Your Name"
 git config --global user.email "youremail@domain.com"
 
 other commands
+Basic Git command List - http://www.codebind.com/linux-tutorials/basic-git-commands-list/
+
+Set Up Git:
+git config --global user.name "Your Name"
+git config --global user.email "youremail@domain.com"
+
+other commands
 git clone (url)
 git add (file names)
 git commit -m "(committed message)
 git push -u origin master
 git remote add origin master (url)
+
+
+
+
+Searches related to how to install git on windows 10
+how to install git on windows
+how to use git on windows 8
+github
+setup git on windows
+ubuntu git package
+setup git server windows
+ubuntu git clone
+git-core
+Searches related to github on windows
+mac os install git
+how to use github windows
+how to setup github
+how to use github windows
+github generate keys
+git setup bash
+git install
+git bash
